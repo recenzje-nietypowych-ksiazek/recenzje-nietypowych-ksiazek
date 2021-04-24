@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-https://likala.com/https://pages.github.com.likala.com/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+https://pages.github.com/
+https://github.blog/
+https://socialimpact.github.com/
 
