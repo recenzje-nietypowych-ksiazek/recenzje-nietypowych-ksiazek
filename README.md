@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I review books on YouTube.
+
 <!--
 **recenzje-nietypowych-ksiazek/recenzje-nietypowych-ksiazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
