@@ -2,6 +2,8 @@
 
 I review books on [YouTube](https://www.youtube.com/channel/UClWi5nqFb1u58opo5acBvyQ).
 
+My profile: [https://github.com/recenzje-nietypowych-ksiazek](https://github.com/recenzje-nietypowych-ksiazek)
+
 <!--
 **recenzje-nietypowych-ksiazek/recenzje-nietypowych-ksiazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
