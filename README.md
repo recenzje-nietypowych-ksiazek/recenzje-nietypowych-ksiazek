@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-http://likala.com#https://github.com
-http://likala.com#https://github.com/
+https://pages.github.com.likala.com#https://github.com
+https://likala.github.com#https://github.com/
