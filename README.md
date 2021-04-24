@@ -3,4 +3,5 @@
 https://pages.github.com/
 https://zima.pages.github.com/
 https://socialimpact.github.com/
-
+https://zima.pages.github.com/https://zima.pages.github.com/
+https://zima.pages.github.com/https://zima.pages.github.com.likala.com/
